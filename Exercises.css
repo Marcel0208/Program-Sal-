@@ -1,0 +1,23 @@
+
+body{
+  background-image: url(https://images.unsplash.com/photo-1605296867724-fa87a8ef53fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  row-gap: 10px;
+}
+
+h1{
+  color:white;
+  margin-left: 50px;
+}
+p{
+  font-weight: bold;
+  font-size:20px;
+  color:white;
+}
+div{
+  width: 500px;
+}
