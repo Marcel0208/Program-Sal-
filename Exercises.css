@@ -21,3 +21,27 @@ p{
 div{
   width: 500px;
 }
+.button{
+  border: 2px solid white;
+  width: fit-content;
+  height: fit-content;
+  font-weight: bold;
+  margin-top: 8px;
+  margin-left: 5px;
+}
+a{
+  color: white;
+  font-size: 20px;
+}
+
+body{
+  margin-top: 150px;
+}
+nav{
+  position: fixed;
+  width: 100%;
+  margin-bottom: 500px;
+  top: 0;
+  display: flex;
+  justify-content: center;
+}
